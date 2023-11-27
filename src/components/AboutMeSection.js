@@ -1,7 +1,7 @@
 import './AboutMeSection.css';
 const AboutMe = () => {
     return ( 
-        <section className="AboutMe" id='aboutme'>
+        <section className="AboutMe w1200" id='aboutme'>
             <h2>About Me</h2>
             <div className="contents">
                 <div className="mk"></div>

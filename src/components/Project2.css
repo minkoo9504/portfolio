@@ -1,5 +1,19 @@
 .project2{
     width: 100%;
     height: 100vh;
-    background-color: blueviolet;
+    background-color: #24253C;
+    position: relative;
+}
+.doksurimokup{
+    width: 670px;
+    height: 510px;
+    background: url(../img/gbk.png);
+    background-size: cover;
+    z-index: 2;
+}
+.doksuritxt{
+    width: 526px;
+    height: 510px; 
+    background-color: aqua;
+    z-index: 2;
 }

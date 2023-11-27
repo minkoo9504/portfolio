@@ -1,5 +1,39 @@
 .Project{
     width: 100%;
     height: 100vh;
-    background-color: yellow;
+    background-color: #24253C;
+    position: relative;
+    z-index: -1;
+}
+.bk{
+    width: 100%;
+    height: 360px;
+    background-color: #19344C;
+    position: absolute  ;
+    top: 40%;
+    z-index: 0;
+    opacity: 50%;
+}
+.ProjectTitle{
+    text-align: center;
+    font-size: 60px;
+    color: #fff;
+    padding-top: 180px;
+}
+.projectContent{
+    width: 100%;
+    margin-top: 50px;
+}
+.f12mokup{
+    width: 670px;
+    height: 510px;
+    background: url(../img/gbk.png);
+    background-size: cover;
+    z-index: 2;
+}
+.f12txt{
+    width: 526px;
+    height: 510px;
+    background-color: aqua;
+    z-index: 2;  
 }
