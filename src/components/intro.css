@@ -1,0 +1,23 @@
+.Intro{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-color: #111;
+}
+.Intro>h1{
+    color: #fff;
+}
+span{
+    font-size: 80px;
+    margin-right: 10px;
+}
+.blink {
+    animation: blink 0.8s step-end infinite;
+  }
+  
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }

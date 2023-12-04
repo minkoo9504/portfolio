@@ -8,6 +8,7 @@ import Project3 from './components/Project3';
 import Project4 from './components/Project4';
 import WebClone from './components/WebCloneSection';
 import ContactMe from './components/ContactMeSection';
+import Intro from './components/intro';
 
 
 function App() {
@@ -49,6 +50,7 @@ function App() {
   return (
     <div className="App">
         <Header />
+        <Intro/>
         <AboutMe />
         <Project  />
         <Project2 />

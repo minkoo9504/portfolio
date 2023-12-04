@@ -10,16 +10,24 @@
     padding-top: 70px;
 }
 .cloneBox>div{
+    cursor: pointer;
     width: 370px;
     height: 415px;
+    transition: filter 0.3s ease;
 
 }
+.cloneBox>div:hover{
+    filter: blur(7px);
+}
 .box1{
-    background-color: red;
+    background: url(../../src/img/dokdo.png) ;
+    background-size: cover;
 }
 .box2{
-    background-color: orange;
+   background: url(../../src/img/domino.PNG); 
+   background-size: cover;
 }
 .box3{
-    background-color: yellow;
+    background: url(../../src/img/kolon.PNG); 
+    background-size: cover;
 }
