@@ -40,10 +40,6 @@ const AboutMe = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="license">
-                        <h3 className="title">License</h3>
-                        <p>웹디자인기능사</p>
-                    </div>
                 </div>
             </div>
         </section>
