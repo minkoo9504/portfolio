@@ -3,7 +3,9 @@
     display: flex;
     align-items: center;
     height: 100vh;
-    background-color: #111;
+    background: url(../img/introbk.png);
+    background-size: cover;
+    opacity: 100%;
 }
 .Intro>h1{
     color: #fff;

@@ -15,5 +15,11 @@
     top: 40%;
     z-index: 0;
     opacity: 50%;
-
+}
+.Kwangju{
+    width: 770px;
+    height: 510px;
+    background: url(../img/kwangju.png);
+    background-size: cover;
+    z-index: 2;
 }

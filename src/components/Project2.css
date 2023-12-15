@@ -5,9 +5,9 @@
     position: relative;
 }
 .doksurimokup{
-    width: 670px;
+    width: 770px;
     height: 510px;
-    background: url(../img/gbk.png);
+    background: url(../img/team2.png);
     background-size: cover;
     z-index: 2;
 }

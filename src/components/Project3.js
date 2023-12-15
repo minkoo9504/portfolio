@@ -6,7 +6,7 @@ const Project3 = () => {
             <div className="w1200">
                 <h3 className='ProjectTitle fblack'>Personal Project</h3>
                 <div className='projectContent flex'>
-                    <div className='f12mokup'></div>
+                    <div className='Kwangju'></div>
                     <div className='f12txt'>
                         
                 

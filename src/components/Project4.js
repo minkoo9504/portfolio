@@ -7,7 +7,7 @@ const Project4 = () => {
                 <h3 className='ProjectTitle fblack'>TOY Project</h3>
                 <div className='projectContent flex'>
                     <div className='doksuritxt'></div>
-                    <div className='doksurimokup'>
+                    <div className='dic'>
                         
                     
                         

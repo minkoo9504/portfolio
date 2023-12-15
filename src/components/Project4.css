@@ -5,3 +5,11 @@
     position: relative;
 
 }
+.dic{
+    width: 700px;
+    height: 510px;
+    background: url(../img/dic.png);
+    background-size: cover;
+    z-index: 2;
+
+}

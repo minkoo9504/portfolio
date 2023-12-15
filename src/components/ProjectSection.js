@@ -14,7 +14,7 @@ const Project = () => {
                                 <p>제작기간</p>
                                 <p>제 작 물</p>
                                 <p>컨 셉</p>
-                                <p>참여도</p>
+                                <p>참여 인원</p>
                             </div>
                             <div>
                                 <p>밤을 걷다</p>
@@ -22,7 +22,7 @@ const Project = () => {
                                 <p>메인 Full Page Scroll , 갤러리 , 회원가입
                                 </p>
                                 <p>팀프로젝트로 밤의 궁을 소개하는 사이트 제작</p>
-                                <p>70%</p>
+                                <p>4 인</p>
                             </div>
 
                         </div>
